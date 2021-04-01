@@ -33,7 +33,7 @@ Here are some ideas to get you started:
           </tr>
           <tr>
             <td>   <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"></td>
-            <td><h2>What`s Up</h2></td>
+            <td><h2 align="center">What`s Up</h2></td>
             <td>   <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"></td>
           </tr>
           <tr>
