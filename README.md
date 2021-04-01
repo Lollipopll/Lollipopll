@@ -23,7 +23,7 @@ Here are some ideas to get you started:
                       <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
                          <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
-                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+<!--                          <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"> -->
 <!--                          <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"> -->
 <!--                          <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
                          <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
                          <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
                          <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
-                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+<!--                          <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"> -->
 <!--                          <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"> -->
 <!--                          <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
                          <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
