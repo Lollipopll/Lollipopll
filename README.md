@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<table>
+<table  frame=void >
           <tbody><tr>
             <td><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"></td>
             <td>
