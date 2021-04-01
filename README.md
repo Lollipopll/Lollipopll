@@ -18,19 +18,37 @@ Here are some ideas to get you started:
 
 <table>
           <tbody><tr>
-            <td><img src="/parrots/hd/parrot.gif"></td>
-            <td><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"></td>
-            <td><img src="/parrots/hd/reverseparrot.gif"></td>
+            <td><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"></td>
+            <td>
+                      <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                        <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                    </td>
+            <td>   <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"></td>
           </tr>
           <tr>
-            <td><img src="/parrots/hd/parrot.gif"></td>
-            <td><h2>What's Up</h2></td>
-            <td><img src="/parrots/hd/reverseparrot.gif"></td>
+            <td>   <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"></td>
+            <td><h2>What`s Up</h2></td>
+            <td>   <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"></td>
           </tr>
           <tr>
-            <td><img src="/parrots/hd/parrot.gif"></td>
-            <td><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"></td>
-            <td><img src="/parrots/hd/reverseparrot.gif"></td>
+            <td>   <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"></td>
+            <td>
+                        <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                         <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif">
+                    </td>
+            <td>   <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"></td>
           </tr>
         </tbody></table>
 
